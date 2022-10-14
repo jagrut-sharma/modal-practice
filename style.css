@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: sans-serif;
+  height: 100vh;
+  color: #333;
+  background: linear-gradient(to top left, #28b487, #7dd56f);
+  line-height: 1.5;
+}
+
+.show-modal {
+  font-family: inherit;
+  font-size: 2.2rem;
+  background: none;
+  border: none;
+  font-weight: 500;
+}
+
+/* .hidden {
+  display: none;
+} */
